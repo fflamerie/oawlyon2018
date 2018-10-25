@@ -5,4 +5,4 @@ Matériel de la présentation "Contribuer à la science ouverte : dire et faire"
 
 ## Contenu
 * Présentation aux formats [Markdown](https://github.com/fflamerie/oawlyon2018/blob/master/2018_10_18_oaweek_lyon.md) et [PDF](https://github.com/fflamerie/oawlyon2018/blob/master/2018_10_18_oaweek_lyon.pdf)
-* Références citées aux formats [BibTLaeX](https://github.com/fflamerie/oawlyon2018/blob/master/2018_10_18_biblio.bib) et [Zotero RDF](https://github.com/fflamerie/oawlyon2018/blob/master/2018_10_18_biblio.rdf)
+* Références citées aux formats [BibTLateX](https://github.com/fflamerie/oawlyon2018/blob/master/2018_10_18_biblio.bib) et [Zotero RDF](https://github.com/fflamerie/oawlyon2018/blob/master/2018_10_18_biblio.rdf)
