@@ -4,13 +4,21 @@
 # Contribuer à la science ouverte : dire et faire
 
 ## oawlyon2018 : Bibliothèques et chercheurs : la science ouverte en commun
+
 18 octobre 2018
+
 Le matériel de cette présentation est disponible en ligne [ici](https://github.com/fflamerie/oawlyon2018)
+
 <small>
+  
 *Frédérique Flamerie*
+  
 *chargée de mission science ouverte/données de recherche*
+
 *Université de Bordeaux - Direction de la documentation*
+
 </small>
+
 ![licence_cc 50%](img/by-sa.png)
 
 ---
@@ -18,12 +26,19 @@ Le matériel de cette présentation est disponible en ligne [ici](https://github
 # Contribuer à la science ouverte : dire et faire
 
 ## oawlyon2018 : Bibliothèques et chercheurs <mark>et ingénieurs, personnels administratifs, etc.</mark> : la science ouverte en commun
+
 18 octobre 2018
+
 <small>
+  
 *Frédérique Flamerie*
+
 *chargée de mission science ouverte/données de recherche*
+
 *Université de Bordeaux - Direction de la documentation*
+
 </small>
+
 ![licence_cc 50%](img/by-sa.png)
 
 ---
